@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Alex9685/Alex9685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineer with high skills in programming, data analysis and various fields of technological development.
 
-Here are some ideas to get you started:
+I have experience in the development of mobile applications, web pages, creation of relational databases and in the analysis of problems within companies.
+                
+I have developed multiple basic mobile applications, I have analyzed business problems and developed optimal solutions in simulations for their constant improvement.
+                
+I love backend programming and database development, as well as requirements analysis and coming up with development ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a fan of classical music, sports and plays.
+
+My hobbies are reading and playing musical instruments.
+                
+     
